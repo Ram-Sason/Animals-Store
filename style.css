@@ -29,4 +29,10 @@ ul{
     height: 200px;
     margin: auto;
 }
+table,th,td{
+    border: 1px solid;
+    padding: 10px;
+    margin: auto;
+    border-collapse: collapse;
+}
 

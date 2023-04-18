@@ -24,4 +24,9 @@ ul{
     margin: 0;
     display: inline-block;
 }
+.animals > img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
 
